@@ -1,0 +1,1 @@
+export const getLoggedInDoctorUserName = (state) => state.user.user.username;

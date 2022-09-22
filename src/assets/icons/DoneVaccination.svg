@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="638" viewBox="0 0 746 638">
+  <g fill="none" fill-rule="evenodd" transform="translate(10 -15)">
+    <g transform="rotate(135 409.45 382.055)">
+      <polygon fill="#4BBAED" points="418.095 21.665 309.921 129.839 346.067 165.985 424.788 119.204 454.241 57.811"/>
+      <rect width="51.114" height="152.98" x="392.676" y="53.481" fill="#19A2E0" transform="rotate(45 418.233 129.97)"/>
+      <polygon fill="#B7E4F8" points="409.845 .009 388.632 21.224 439.73 72.322 458.706 72.322 460.945 51.108"/>
+      <rect width="72.204" height="30.002" x="439.763" y="72.236" fill="#93D6F4" transform="rotate(45 475.865 87.237)"/>
+      <polygon fill="#25AE88" points="119.82 370.956 0 490.777 10.638 501.414 53.337 468.079 130.458 381.594"/>
+      <rect width="14.958" height="169.451" x="68.366" y="362.066" fill="#25AE88" transform="rotate(45 75.845 446.792)"/>
+      <polygon fill="#8AD2F4" points="129.569 311.046 43.974 397.188 79.692 433.134 121.26 414.823 165.287 346.992"/>
+      <polygon fill="#4BBAED" points="79.692 433.134 115.41 469.079 201.005 382.937 165.287 346.992"/>
+      <polygon fill="#DBF1FB" points="313.779 76.617 227.112 163.283 281.857 230.196 346.529 200.859 374.607 137.445"/>
+      <polygon fill="#B7E4F8" points="281.941 230.112 348.529 285.033 435.436 198.273 374.607 137.445"/>
+      <polygon fill="#25AE88" points="227.029 163.366 69.084 321.311 129.912 382.14 290.024 262.59 287.857 224.195"/>
+      <rect width="86.025" height="223.365" x="196.29" y="221.9" fill="#76E1C3" transform="rotate(45 239.303 333.583)"/>
+      <polygon fill="#B7E4F8" points="296.028 34.675 274.813 55.89 365.488 146.565 386.703 146.565 386.703 125.35"/>
+      <g fill="#93D6F4" transform="translate(248 120)">
+        <rect width="128.229" height="30.002" x="109.321" y="46.286" transform="rotate(45 173.436 61.286)"/>
+        <rect width="30.172" height="30.002" x="6.833" y="6.9" transform="rotate(-135 21.919 21.901)"/>
+      </g>
+      <g fill="#FFB700" transform="translate(120 163)">
+        <rect width="30.172" height="30.002" x="49.454" y="49.229" transform="rotate(-135 64.54 64.23)"/>
+        <rect width="30.172" height="30.002" x="92.125" y="6.556" transform="rotate(-135 107.21 21.557)"/>
+        <rect width="30.172" height="30.002" x="6.733" y="91.908" transform="rotate(-135 21.819 106.909)"/>
+      </g>
+    </g>
+    <ellipse cx="262.5" cy="349.5" fill="#25AE88" stroke="#FFFFFF" stroke-width="20" rx="262.5" ry="260.5"/>
+    <g transform="translate(13 99)">
+      <circle cx="250.5" cy="250.5" r="250.5" fill="#25AE88"/>
+      <polyline stroke="#FFFFFF" stroke-width="40" points="399 152 221.154 362 110 268.667" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

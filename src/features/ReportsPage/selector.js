@@ -1,0 +1,11 @@
+export const selectVaccines = state => state.reports.vaccines;
+export const selectVaccinesLoadingStatus = state => state.reports.vaccinesLoadingStatus;
+export const selectReportLoadingStatus = state => state.reports.reportLoadingStatus;
+export const selectData = state => state.reports.data;
+export const selectColumns = state => state.reports.columns;
+export const selectSecondaryReportData = state => state.reports.secondaryReportData;
+export const selectSecondaryReportColumns = state => state.reports.secondaryReportColumns;
+export const selectReportFormat = state => state.reports.reportFormat;
+export const selectSecondaryReportLoadingStatus = state => state.reports.secondaryReportLoadingStatus;
+export const selectTitle = state => state.reports.title;
+export const selectSecondaryTitle = state => state.reports.secondaryTitle;

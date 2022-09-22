@@ -1,0 +1,21 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cat-main{
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.image{
+    width: 90vmin;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.image img{
+    border-radius: 6px;
+    width: 100%;
+}
+.content{
+    margin-top: 2rem;
+}

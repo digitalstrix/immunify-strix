@@ -1,0 +1,10 @@
+export const getLoggedInUserId = (state) => state.user.user.personId;
+export const selectParentProfilePictureUrl = (state) => state.parentProfile.profilePicture?.imageUrl || null;
+export const selectRetrievingBasicDataStatus = (state) => state.parentProfile.retrievingBasicProfileDataStatus;
+export const selectRetrievingAdditionalDataStatus = (state) => state.parentProfile.retrievingAdditionalProfileDataStatus;
+export const selectUpdatingBasicDataStatus = (state) => state.parentProfile.updatingBasicProfileDataStatus;
+export const selectUpdatingBasicDataError = (state) => state.parentProfile.updatingBasicProfileDataError;
+export const selectUpdatingAdditionalDataStatus = (state) => state.parentProfile.updatingAdditionalProfileDataStatus;
+export const selectUpdatingAdditionalDataError = (state) => state.parentProfile.updatingAdditionalProfileDataError;
+export const selectParentBasicData = (state) => state.parentProfile.basicProfileData;
+export const selectParentAdditionalData = (state) => state.parentProfile.additionalProfileData;

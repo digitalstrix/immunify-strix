@@ -1,0 +1,13 @@
+export const selectCountryLoadingStatus = state => state.country.countryLoadingStatus;
+export const selectCenterFetchStatus = state => state.vacCenter.centerMetadataLoadingStatus;
+export const selectVacCenters = state => state.vacCenter.centers;
+export const selectCountries = state => state.country.countries;
+export const selectVacTypes = state => state.vacCenter.vacTypes;
+export const selectVacStates = state => state.vacCenter.vacStates;
+export const selectQrCodeGenerationStatus = state => state.manageCards.qrCodeGenerationStatus;
+export const selectQrCodeGenerationError = state => state.manageCards.qrCodeGenerationError;
+export const selectCodeDetails = state => state.manageCards.codeDetails;
+export const selectPrintCardStatus = state => state.manageCards.printCardStatus;
+export const selectPdfUrl = state => state.manageCards.pdfUrl;
+export const selectArtworks = state => state.manageCards.artworks;
+export const selectArtworkDetails = state => state.manageTemplates.artworkDetails;

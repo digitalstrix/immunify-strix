@@ -1,0 +1,1 @@
+export const gettingSelectedChildInfoStatus = (state) => state.myChildren.retrievingSelectedChildAllInfoStatus;

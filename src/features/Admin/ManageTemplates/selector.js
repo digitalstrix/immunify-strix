@@ -1,0 +1,11 @@
+export const selectCountries = state => state.country.countries;
+export const selectCountryLoadingStatus = state => state.country.countryLoadingStatus;
+export const selectVacStates = state => state.manageTemplates.vacStates;
+export const selectVacCities = state => state.manageTemplates.vacCities;
+export const selectVacNames = state => state.manageTemplates.vacNames;
+export const selectVacTypes = state => state.manageTemplates.vacTypes;
+export const selectAddTemplateStatus = state => state.manageTemplates.addTemplateStatus;
+export const selectUpdateTemplateStatus = state => state.manageTemplates.updateTemplateStatus;
+export const selectVacCenters = state => state.vacCenter.centers;
+export const selectArtworks = state => state.manageTemplates.artworks;
+export const selectArtworkDetails = state => state.manageTemplates.artworkDetails;

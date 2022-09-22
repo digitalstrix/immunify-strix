@@ -1,0 +1,1 @@
+export const selectPatientAllergies = (state) => state.myPatients.selectedPatientData?.allergies;

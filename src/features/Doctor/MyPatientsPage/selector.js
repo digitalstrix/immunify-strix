@@ -1,0 +1,9 @@
+export const getLoggedInDoctorId = (state) => state.user.user.personId;
+export const getPrescriptionUploadingStatus = (state) => state.myPatients.uploadPrescriptionByDoctorStatus;
+export const getPrescriptionUploadingError = (state) => state.myPatients.uploadPrescriptionByDoctorError;
+export const getSchedulingAppointmentStatus = (state) => state.myPatients.scheduleAppointmentStatus;
+export const getSchedulingAppointmentError = (state) => state.myPatients.scheduleAppointmentError;
+export const selectMyChildPatients = (state) => state.myPatients.limitedChildrenList;
+export const selectRetrievingMyChildPatientsStatus = (state) => state.myPatients.retrievingLimitedChildrenListListStatus;
+export const selectMyAdultPatients = (state) => state.myPatients.limitedParentsList;
+export const selectRetrievingMyAdultPatientsStatus = (state) => state.myPatients.retrievingLimitedParentsListStatus;

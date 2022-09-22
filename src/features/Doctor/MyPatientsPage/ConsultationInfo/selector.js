@@ -1,0 +1,1 @@
+export const selectConsultations= (state) => state.myPatients.selectedPatientData.consultationHistory;

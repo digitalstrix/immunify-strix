@@ -1,0 +1,10 @@
+export const selectCountries = state => state.country.countries;
+export const selectCountryLoadingStatus = state => state.country.countryLoadingStatus;
+export const selectSchedules = state => state.vacSchedules.schedules;
+export const selectScheduleCreateStatus = state => state.vacSchedules.scheduleCreateStatus;
+export const selectScheduleUpdateStatus = state => state.vacSchedules.scheduleUpdateStatus;
+export const selectScheduleDetails = state => state.vacSchedules.scheduleDetails;
+export const selectScheduleDetailsLoadinStatus = state => state.vacSchedules.scheduleDetailsLoadingStatus;
+export const selectVaccines = state => state.vacSchedules.vaccines;
+export const selectAddVacShedDetails = state => state.vacSchedules.addScheduleDetailsStatus;
+export const selectDelVacShedDetails = state => state.vacSchedules.vacScheduleDeleteStatus;

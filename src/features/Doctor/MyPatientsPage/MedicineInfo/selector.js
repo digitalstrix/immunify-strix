@@ -1,0 +1,1 @@
+export const selectMedicines = (state) => state.myPatients.selectedPatientData.medicalInfo;

@@ -1,0 +1,1 @@
+export const selectLabReports = (state) => state.myPatients.selectedPatientData.labReports;
